@@ -1,0 +1,19 @@
+.wrapper{
+    box-sizing: border-box;
+    margin: 100px auto;
+    width: 40%;
+    text-align: center;
+}
+
+.btn{
+    margin: 10px;
+    background: rgb(212, 9, 43);
+    border: none;
+    padding:5px 10px;
+    font-weight: 900;
+}
+
+.counter{
+    box-sizing: border-box;
+    font-size: 30px;
+}
